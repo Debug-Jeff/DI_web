@@ -1,5 +1,3 @@
-Here's the README formatted with emojis for your project **Dante's Inferno**:
-
 ```markdown
 # Dante's Inferno 🌌
 
