@@ -27,7 +27,7 @@
 ## Technology Stack ⚙️
 - **Frontend:** 
   - HTML, CSS, JavaScript
-  - React (or Vue.js, if preferred)
+  - React (or Vue.js, if preferred) / Next.js
   - Leaflet.js or Mapbox for interactive maps
 
 - **Backend:** 
