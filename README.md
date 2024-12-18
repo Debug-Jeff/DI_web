@@ -1,7 +1,7 @@
 ```markdown
 # Dante's Inferno 🌌
 
-![Dante's Inferno Logo](path/to/logo.png) <!-- Add a logo if you have one -->
+![Dante's Inferno Logo](path/to/logo.png) 
 
 ## Table of Contents 📚
 - [Project Overview](#project-overview)
