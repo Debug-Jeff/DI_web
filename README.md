@@ -1,7 +1,7 @@
 ```markdown
-# Dante's Inferno 🌌
+# D-I 🌌
 
-![Dante's Inferno Logo](path/to/logo.png) 
+![Logo](path/to/logo.png) 
 
 ## Table of Contents 📚
 - [Project Overview](#project-overview)
@@ -15,7 +15,7 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview 🌟
-**Dante's Inferno** is a web application that collects and displays various maps from popular fantasy stories, such as Harry Potter and Middle-earth. The goal is to make these maps easily accessible and interactive, allowing users to explore their favorite fictional worlds in a new way.
+**D-I** is a web application that collects and displays various maps from popular fantasy stories, such as Harry Potter and Middle-earth. The goal is to make these maps easily accessible and interactive, allowing users to explore their favorite fictional worlds in a new way.
 
 ## Features ✨
 - **Interactive Maps:** Users can zoom, pan, and interact with maps. 🗺️
