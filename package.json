@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "name": "star-world",
+  "version": "1.0.0",
+  "description": "```markdown\r # Dante's Inferno 🌌",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
